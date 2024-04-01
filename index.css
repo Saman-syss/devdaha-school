@@ -626,7 +626,7 @@ width: 300%;}
     }
 
     .maingrid{
-        width: 280px;
+        width: fit-content;
         font-size: 25px;
        
     }
