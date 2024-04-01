@@ -625,14 +625,6 @@ width: 300%;}
         max-width: 100%; /* fixing the overflow*/
     }
 
-    .maingrid{
-        width: fit-content;
-        font-size: 25px;
-       
-    }
-    .header1{
-        max-width: fit-content;
-    }
     .header1 h1{
         text-align: center;
         margin-left: 0;
